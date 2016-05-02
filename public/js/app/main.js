@@ -1,0 +1,1 @@
+var SS = angular.module('space-shooter', []);
